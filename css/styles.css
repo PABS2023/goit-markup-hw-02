@@ -1,0 +1,17 @@
+.BlueLyric{
+    Color: #2196F3;
+}
+.bluebutton{
+    background-color: #ffffff;
+    color: white;  
+}
+img{
+    width: 370px;
+}
+.titulo{
+    font-size: 26px;
+}
+button:hover{
+    background-color: #2196F3;
+    color:white;
+}
